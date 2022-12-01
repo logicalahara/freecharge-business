@@ -9,12 +9,12 @@
   "artMemorabilia": "ಮೆಮೊರಬಿಲಿಯಾ",
   "artMusicStore": "ಮ್ಯೂಸಿಕ್ ಸ್ಟೋರ್ – ಸಾಧನಗಳು ಮತ್ತು ಶೀಟ್ ಮ್ಯೂಸಿಕ್",
   "artFabrics": "ಹೊಲಿಗೆ, ನೀಡಲ್ ವರ್ಕ್ ಮತ್ತು ಫ್ಯಾಬ್ರಿಕ್ಸ್",
-  "artCoin": “ಅಂಚೆ ಚೀಟಿ ಮತ್ತು ನಾಣ್ಯ",
-  "artVintage": “ವಿಂಟೇಜ್ ಮತ್ತು ಸಂಗ್ರಹಯೋಗ್ಯ ವಸ್ತುಗಳು",
-  "autoCategory": “ಅಟೋಮೋಟಿವ್",
+  "artCoin": "ಅಂಚೆ ಚೀಟಿ ಮತ್ತು ನಾಣ್ಯ",
+  "artVintage": "ವಿಂಟೇಜ್ ಮತ್ತು ಸಂಗ್ರಹಯೋಗ್ಯ ವಸ್ತುಗಳು",
+  "autoCategory": "ಅಟೋಮೋಟಿವ್",
   "autoService": "ಸರ್ವೀಸ್ ಸ್ಟೇಷನ್ ಗಳು",
   "autoMotion": "ಅಟೋಮೋಟಿವ್",
-  "edJobCategory”: "ಶಿಕ್ಷಣ ಮತ್ತು ಉದ್ಯೋಗಗಳು",
+  "edJobCategory": "ಶಿಕ್ಷಣ ಮತ್ತು ಉದ್ಯೋಗಗಳು",
   "edJobPersonal": "ವೈಯಕ್ತಿಕ  ಬೋಧನೆ",
   "edJobConsult": "ಜಾಬ್ ಕನ್ಸಲ್ಟಿಂಗ್",
   "edJobOnline": "ಆನ್ ಲೈನ್ ಟೀಚಿಂಗ್ ",
@@ -23,7 +23,7 @@
   "healthCategory": "ಆರೋಗ್ಯ ಮತ್ತು ವೈಯಕ್ತಿಕ ಕಾಳಜಿ",
   "healthPharmacy": "ಫಾರ್ಮಸಿ",
   "healthCare": "ಮೆಡಿಕಲ್ ಕೇರ್",
-  "healthVision”: "ವಿಷನ್ ಕೇರ್ ",
+  "healthVision": "ವಿಷನ್ ಕೇರ್ ",
   "healthVitamin": "ವಿಟಮಿನ್ಸ್ ಮತ್ತು ಪೂರಕಗಳು",
   "liquorCategory": "ಲಿಕ್ಕರ್(ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ಸಿಗರೆಟ್",
   "liquorCigar": "ಸಿಗಾರ್ ಸ್ಟೋರ್ಸ್ ಮತ್ತು ಸ್ಟ್ಯಾಂಡ್ಸ್",
@@ -38,5 +38,5 @@
   "retailNonDurable": "ಬಾಳಿಕೆರಹಿತ ವಸ್ತುಗಳು",
   "retailUsedShop": "ಬಳಸಿದ ಮತ್ತು ಸೆಕೆಂಡ್  ಹ್ಯಾಂಡ್ ಶಾಪ್",
   "retailFuel": "ಇಂಧನ",
-  "retailLpg": "LPG ಜಿ“ 
+  "retailLpg": "LPG ಜಿ"
 }

@@ -1,9 +1,8 @@
 {
- "homeVideoDesc": "పైసా ప్లస్ తో పాటు వ్యాపారం పెంచండి",
-"globalOfficeStartDay": "సోమవారం",
-"globalOfficeEndDay": "శనివారం",
- "businessCategoryIndividual": "బ్యాక్ టు యాప్",
- "businessCategoryIndividual": "వ్యక్తి",
-"businessCategorySoleTrader": "ఏకైక వ్యాపారి"
+  "homeVideoDesc": "పైసా ప్లస్ తో పాటు వ్యాపారం పెంచండి",
+  "globalOfficeStartDay": "సోమవారం",
+  "globalOfficeEndDay": "శనివారం",
+  "homeSplashwebViewTitle": "బ్యాక్ టు యాప్",
+  "businessCategoryIndividual": "వ్యక్తి",
+  "businessCategorySoleTrader": "ఏకైక వ్యాపారి"
 }
-
